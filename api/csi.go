@@ -103,7 +103,7 @@ type CSIVolume struct {
 	ModifyIndex uint64
 
 	// ExtraKeysHCL is used by the hcl parser to report unexpected keys
-	ExtraKeysHCL []string `hcl:"unusedKeys",json:"-"`
+	ExtraKeysHCL []string `hcl:"unusedKeys" json:"-"`
 }
 
 type CSIVolumeIndexSort []*CSIVolumeListStub
