@@ -177,7 +177,7 @@
     "@hashicorp/design-system-components": "^1.5.0",
     "@hashicorp/ember-flight-icons": "^2.0.12",
     "@percy/cli": "^1.6.1",
-    "@percy/ember": "^3.0.0",
+    "@percy/ember": "^4.2.0",
     "curved-arrows": "^0.1.0",
     "d3": "^7.3.0",
     "lru_map": "^0.4.1",
