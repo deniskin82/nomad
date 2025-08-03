@@ -167,7 +167,7 @@
     "@babel/helper-string-parser": "^7.19.4",
     "@hashicorp/design-system-components": "^4.13.0",
     "@percy/cli": "^1.30.0",
-    "@percy/ember": "^4.2.0",
+    "@percy/ember": "^5.0.0",
     "curved-arrows": "^0.1.0",
     "d3": "^7.3.0",
     "dompurify": "^3.1.3",
