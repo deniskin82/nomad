@@ -2793,13 +2793,14 @@
   resolved "https://registry.yarnpkg.com/@percy/dom/-/dom-1.30.0.tgz#69838a0cac541e9451dccf2145dbd497e0d21590"
   integrity sha512-i3uHFDAzXCLAeI0oTDDWIaRq1wiGwoRknS1QfIfy7usAia+ipeWhWb+m3sXtfg/g6WyBzcg3OtG1tIB8TO7/4g==
 
-"@percy/ember@^4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@percy/ember/-/ember-4.2.0.tgz#b6fdeec46a88ae80da9d8a1c689b5bb67bf5992e"
-  integrity sha512-D/WckDD2tQetdn8uq46nQA1rOVgov8jsZG4uN7snAq6SrOpxNxacONg37QPwczmICBc7o/NlipCAUteukmtKzg==
+"@percy/ember@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@percy/ember/-/ember-5.0.0.tgz#b6bf0a1086cc3670f64fbddb6c8bba963170bdc2"
+  integrity sha512-Nod2k3zMUQKnAK29dO9Xp4tdIMUiLrEffntLXjHtQroEq2wqCTeS6gfLLEjV++TgPE0q2ehex/fd2QXzgKFKEA==
   dependencies:
     "@percy/sdk-utils" "^1.18.0"
-    ember-cli-babel "^7.26.11"
+    ember-auto-import "^2.10.0"
+    ember-cli-babel "^8.2.0"
 
 "@percy/env@1.30.0":
   version "1.30.0"
@@ -6541,7 +6542,7 @@ ember-assign-helper@^0.5.0:
   dependencies:
     "@embroider/addon-shim" "^1.8.7"
 
-ember-auto-import@^1.10.1, ember-auto-import@^1.2.19, ember-auto-import@^1.6.0, ember-auto-import@^2.2.4, ember-auto-import@^2.4.0, ember-auto-import@^2.4.2, ember-auto-import@^2.5.0, ember-auto-import@^2.6.0, ember-auto-import@^2.6.3:
+ember-auto-import@^1.10.1, ember-auto-import@^1.2.19, ember-auto-import@^1.6.0, ember-auto-import@^2.10.0, ember-auto-import@^2.2.4, ember-auto-import@^2.4.0, ember-auto-import@^2.4.2, ember-auto-import@^2.5.0, ember-auto-import@^2.6.0, ember-auto-import@^2.6.3:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/ember-auto-import/-/ember-auto-import-2.7.3.tgz#08421f35cd9628327e1dd5d9df40673a1d7beb71"
   integrity sha512-EQzStGYxNvTPYWCFh0X57HFAzAvA2rHHRgBeWNDKHQ/rENNlHw0c0e0i1XebwEfv+yGHOodE4dN+f/mrYkQXLw==
